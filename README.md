@@ -6,10 +6,10 @@ A comprehensive university management , having the functionalities of all object
 <br>
 Project Concepts: Object Oriented Programming, Data structures and algorithm. <br>
 Project Details:<br>
-   ◦	 Facilitated hierarchical class relationships between admin, students, faculty, and PhD scholars.
-   ◦	 Implemented operations such as Insert, Delete, Update, and Display for managing student and faculty data.
-   ◦	  Enabled runtime flexibility through virtual functions
-   ◦	Tech stack: The languages used include C++ with file management feature and some other frameworks and internal tools.
+   ◦	 Facilitated hierarchical class relationships between admin, students, faculty, and PhD scholars.<br>
+   ◦	 Implemented operations such as Insert, Delete, Update, and Display for managing student and faculty data.<br>
+   ◦	  Enabled runtime flexibility through virtual functions<br>
+   ◦	Tech stack: The languages used include C++ with file management feature and some other frameworks and internal tools.<br>
 Outcomes: <br>
 ◦	The system was built with a focus on optimizing Object-Oriented Programming features, significantly improving efficiency and data management<br>
 Concepts: Inheritance, Encapsulation, Abstraction and other features
